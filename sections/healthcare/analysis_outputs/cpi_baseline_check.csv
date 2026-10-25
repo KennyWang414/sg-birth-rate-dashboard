@@ -1,0 +1,7 @@
+source_column,rebased_column,original_2010_value,rebased_2010_value,rebased_2025_value
+cpi_health_2024_100,cpi_health_2010_100,74.092,100.0,138.54802137882635
+cpi_medicines_health_products_2024_100,cpi_medicines_health_products_2010_100,89.621,100.0,110.56114080405261
+cpi_outpatient_care_2024_100,cpi_outpatient_care_2010_100,78.144,100.0,127.62848075348074
+cpi_inpatient_care_2024_100,cpi_inpatient_care_2010_100,62.599,100.0,159.5696416875669
+cpi_other_health_services_2024_100,cpi_other_health_services_2010_100,65.159,100.0,156.63070335640506
+cpi_health_insurance_2024_100,cpi_health_insurance_2010_100,75.996,100.0,148.26964577083007

@@ -1,0 +1,4 @@
+metric,unit,first_year,first_value,latest_year,latest_value
+gov_health_expenditure_sgd_million,SGD billion,2010,3.8567,2023,17.199
+gov_health_per_capita_sgd,SGD per person,2010,760.0,2023,2906.0
+gov_health_expenditure_gdp_pct,% of GDP,2010,1.2,2023,3.0

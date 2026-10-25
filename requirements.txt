@@ -1,0 +1,11 @@
+jupyterlab
+ipykernel
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+plotly
+streamlit>=1.40
+openpyxl
+kaleido
